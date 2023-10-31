@@ -243,12 +243,12 @@ whitelist:
 # category broken link : temporary commented out
 category_archive:
   type: liquid
-  path: /categories/
- tag_archive:
-   type: liquid
-   path: /tags/
+  path: /categories/t
+tag_archive:
+  type: liquid
+  path: /tags/
 
-# https://github.com/jekyll/jekyll-archives
+https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
     - categories
