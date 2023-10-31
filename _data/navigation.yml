@@ -20,6 +20,8 @@ main:
 categories:
   - title: 'TIL'
     url: /categories/til/
+  - title: 'TAGS'
+    url: https://dwl5.github.io/tags/
 #  - title: 'Categories2'
 #    url: /categories/categories2/
 #  - title: 'Categories3'
